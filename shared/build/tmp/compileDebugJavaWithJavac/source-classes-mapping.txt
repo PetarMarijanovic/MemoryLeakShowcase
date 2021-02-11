@@ -1,0 +1,2 @@
+marijanovic/memoryleakshowcase/shared/BuildConfig.java
+ marijanovic.memoryleakshowcase.shared.BuildConfig

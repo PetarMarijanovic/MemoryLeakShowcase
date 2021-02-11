@@ -1,0 +1,2 @@
+marijanovic/memoryleakshowcase/androidApp/BuildConfig.java
+ marijanovic.memoryleakshowcase.androidApp.BuildConfig
